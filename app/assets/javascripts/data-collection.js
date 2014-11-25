@@ -4,11 +4,11 @@
       var dropArea;
       $scope.recordings = [
         {
-          url: 'assets/recorder/recordings/Waiting-110fps.json.lz'
+          url: 'assets/Waiting-110fps.json.lz'
         }, {
-          url: 'assets/recorder/recordings/HandSplay-110fps.json.lz'
+          url: 'assets/HandSplay-110fps.json.lz'
         }, {
-          url: 'assets/recorder/recordings/Waiting-110fps.json.lz'
+          url: 'assets/Waiting-110fps.json.lz'
         }
       ];
       $scope.title = function() {
