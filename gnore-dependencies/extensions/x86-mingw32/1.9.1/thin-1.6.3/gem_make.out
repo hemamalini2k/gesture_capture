@@ -1,0 +1,11 @@
+J:/Docs/LeapMotion/RailsInstaller/Ruby1.9.3/bin/ruby.exe -r ./siteconf20141123-3648-ebmb18.rb extconf.rb
+checking for main() in -lc... no
+creating Makefile
+
+make  clean
+Makefile:165: *** target pattern contains no `%'.  Stop.
+
+make
+Makefile:165: *** target pattern contains no `%'.  Stop.
+
+make failed, exit code 2
